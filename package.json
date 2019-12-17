@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-puglint-module",
+  "version": "0.0.1",
+  "description": "PugLint module for Nuxt.js",
+  "repository": "storyn26383/nuxt-puglint-module",
+  "author": "Sasaya <storyn26383@gmail.com>",
+  "main": "index.js",
+  "dependencies": {
+    "vue-pug-lint-loader": "^0.0.1"
+  }
+}
